@@ -17,10 +17,14 @@ This project had tried different approaches
 In this project we have tried different variations of the architectures.
 
 
-Base Mlp 
-Base MLp+ Regularization
-Base Mlp+ Drop out 
-Base Mlp with Embedding
-Base Mlp with Glove Vectors
+1.Base Mlp 
+
+2.Base MLp+ Regularization
+
+3.Base Mlp+ Drop out
+
+4.Base Mlp with Embedding
+
+5.Base Mlp with Glove Vectors
 
 
